@@ -10,7 +10,7 @@ public class SpringApp {
         SpringApplication.run(SpringApp.class,args);
 
         System.out.println("ok");
-        System.out.println("ok2master");
+        System.out.println("ok22dev");
 
     }
 }
